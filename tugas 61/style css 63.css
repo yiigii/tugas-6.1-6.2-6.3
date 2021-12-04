@@ -1,0 +1,69 @@
+.row {
+    width: 820px;
+    height: 500px;
+    margin: auto;
+}
+
+.column {
+    width: 200px;
+    height: 300px;
+    margin-left: 18px;
+}
+
+.lightgreen {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 250px;
+    right: 45%;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 633px;
+    height: 40px;
+    float: left;
+    position: absolute;
+    margin-block-start: 409px;
+}
+
+.yelloww {
+    background-color: yellow;
+    width: 150px;
+    height: 350px;
+    position: absolute;
+    margin-block-start: 49px;
+}
+
+.orage {
+    background-color: orange;
+    width: 633px;
+    height: 40px;
+    float: left;
+}
+
+.blue {
+    width: 475px;
+    height: 350px;
+    position: absolute;
+    top: 60px;
+    right: 32%;
+}
+
+.abu {
+    background-color: darkgrey;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 250px;
+    right: 55%;
+}
+
+.artikel {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 250px;
+    right: 35%;

@@ -1,0 +1,71 @@
+.container {
+    width: 650px;
+    height: 250px;
+    margin: 80px auto;
+    flex-wrap: wrap;
+}
+
+.item {
+    border: solid;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.satu {
+    width: 201px;
+    height: 100px;
+}
+
+.dua{
+    background-color: brown;
+    width: 200px;
+    height: 100px;
+}
+
+.tiga {
+    background-color: brown;
+    width: 201px;
+    height: 100px;
+}
+
+.empat {
+    background-color: yellow;
+    width: 114px;
+    height: 100px;
+
+}
+
+.lima {
+    background-color: yellow;
+    width: 114px;
+    height: 100px;
+
+}
+
+.enam{
+    background-color: yellow;
+    width: 114px;
+    height: 100px;
+
+}
+
+.tujuh {
+    background-color: yellow;
+    width: 114px;
+    height: 100px;
+
+}
+
+.delapan {
+    background-color: yellow;
+    width: 114px;
+    height: 100px;
+
+}
+
+.img1 {
+    margin-left: 350px;
+    margin-top: 10px;
+
+}

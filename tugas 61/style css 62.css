@@ -1,0 +1,45 @@
+.row {
+    width: 500px;
+    height: 400px;
+    margin: auto;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 350px;
+    height: 60px;
+    float: right;
+}
+
+.orange {
+    background-color: orange;
+    width: 150px;
+    height: 280px;
+    position: absolute;
+    top: 68px;
+    right: 433px;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+    width: 150px;
+    height: 395px;
+    float: inline-start;
+}
+
+.blue {
+    background-color: blue;
+    width: 350px;
+    height: 60px;
+    position: absolute;
+    top: 343px;
+    right: 433px;
+}
+
+.artikel {
+    width: 184px;
+    height: 265px;
+    position: absolute;
+    top: 75px;
+    right: 589px;
+}
